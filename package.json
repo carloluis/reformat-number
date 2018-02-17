@@ -1,0 +1,23 @@
+{
+  "name": "reformat-number",
+  "version": "1.0.0",
+  "description": "reformat javascript string-numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloluis/reformat-number.git"
+  },
+  "keywords": [
+    "reformat",
+    "numbers"
+  ],
+  "author": "Carloluis Rodríguez <carloluisr@gmail.com> (https://github.com/carloluis)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloluis/reformat-number/issues"
+  },
+  "homepage": "https://github.com/carloluis/reformat-number#readme"
+}
