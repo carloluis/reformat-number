@@ -1,4 +1,7 @@
-# reformat-number &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/carloluis/reformat-number/master/LICENSE)
+# Reformat-Number &middot; [![GitHub license](https://img.shields.io/badge/1,234-.56-blue.svg)](https://github.com/carloluis/reformat-number)
+
+[![GitHub license](https://img.shields.io/github/license/carloluis/reformat-number.svg)](https://github.com/carloluis/reformat-number/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/reformat-number.svg)](https://www.npmjs.com/package/reformat-number)
 
 Reformat javascript string-numbers with ease.
 
