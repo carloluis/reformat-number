@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "coverage": "jest --coverage",
-    "codacy:report": "npm run coverage && bash codacy.sh && cat coverage/lcov.info | codacy-coverage"
+    "codacy:report": "npm run coverage && bash codacy.sh",
+    "prepush": "npm run codacy:report"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
   "homepage": "https://github.com/carloluis/reformat-number#readme",
   "devDependencies": {
     "codacy-coverage": "^2.0.3",
+    "husky": "^0.14.3",
     "jest": "^22.4.2"
   }
 }
