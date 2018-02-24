@@ -1,6 +1,6 @@
 {
   "name": "reformat-number",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "reformat javascript string-numbers",
   "main": "index.js",
   "files": [
