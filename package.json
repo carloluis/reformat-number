@@ -4,7 +4,7 @@
   "description": "reformat javascript string-numbers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/carloluis/reformat-number/issues"
   },
-  "homepage": "https://github.com/carloluis/reformat-number#readme"
+  "homepage": "https://github.com/carloluis/reformat-number#readme",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
 }
