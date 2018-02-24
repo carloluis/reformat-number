@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "tdd": "jest --watch",
     "coverage": "jest --coverage",
     "codacy:report": "npm run coverage && bash codacy.sh",
     "prepush": "npm run codacy:report"
