@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "reformat javascript string-numbers",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "jest",
     "tdd": "jest --watch",
@@ -17,8 +20,10 @@
   "keywords": [
     "javascript",
     "reformat",
+    "number string",
+    "number",
     "string",
-    "number"
+    "format"
   ],
   "author": "Carloluis Rodríguez <carloluisr@gmail.com> (https://github.com/carloluis)",
   "license": "MIT",
