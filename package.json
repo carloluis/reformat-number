@@ -4,7 +4,8 @@
   "description": "reformat javascript string-numbers",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
