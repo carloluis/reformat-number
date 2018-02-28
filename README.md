@@ -28,3 +28,7 @@ reformat('123,456,7890'); // => '1,234,567,890'
 reformat('-12345678.90'); // => '-12,345,678.90'
 reformat('1,2,3,4,5,6'); // => '123,456'
 ```
+
+## License
+
+MIT © [Carloluis](https://github.com/carloluis)
